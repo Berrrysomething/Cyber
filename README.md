@@ -1,1 +1,2 @@
-# Cyber
+# Cyber<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes"><Template>Normal</Template><TotalTime>1</TotalTime><Pages>15</Pages><Words>5196</Words><Characters>29623</Characters><Application>Microsoft Office Word</Application><DocSecurity>0</DocSecurity><Lines>246</Lines><Paragraphs>69</Paragraphs><ScaleCrop>false</ScaleCrop><Company></Company><LinksUpToDate>false</LinksUpToDate><CharactersWithSpaces>34750</CharactersWithSpaces><SharedDoc>false</SharedDoc><HyperlinksChanged>false</HyperlinksChanged><AppVersion>16.0000</AppVersion></Properties>
